@@ -1,0 +1,4 @@
+- Cài đặt Email:
+git config --global user.email "<email>"
+-Cài đặt Name:
+git config -- global user.nam "<name>"
